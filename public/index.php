@@ -1,2 +1,3 @@
 <?php
-   echo "test index file";
+   echo "test index file \n";
+   echo "Bangkok";
